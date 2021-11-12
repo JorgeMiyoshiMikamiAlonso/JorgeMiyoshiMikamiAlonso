@@ -1,7 +1,6 @@
 Hi there 👋
-://github.com/JorgeMiyoshiMikamiAlonso/JorgeMiyoshiMikamiAlonso.git
-://i.postimg.cc/RCpTvSLG/Arch-Linux-Series-By-Zatiel.png
-<h3 align="center">Hey there, I'm Zatiel</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
+
+<h3 align="center">Hey there, I'm Miyoshi</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 <p align="center">
 <a href="#"><img src="("https://i.postimg.cc/RCpTvSLG/Arch-Linux-Series-By-Zatiel.png")" height="100%" width="100%" /></a>
 </p>
