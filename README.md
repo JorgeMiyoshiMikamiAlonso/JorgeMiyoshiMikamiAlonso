@@ -5,9 +5,6 @@ Hi there 👋
 <a href="#"><img src=("https://i.postimg.cc/RCpTvSLG/Arch-Linux-Series-By-Zatiel.png") height="100%" width="100%" /></a>
 </p>
 
-Hello, My name is Miyoshi Mikami, 16 years with 3 years of experience.
-I love linux, but I am interested in Arch Linux, I'm a
-web developer, I love the linux terminal, because it, I develop cli applications for linux
 ### My preferred tecnologies are:
 
 - Javascript (Node.js)
